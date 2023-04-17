@@ -1,0 +1,148 @@
+[Тренировочные платформы]
+https://backdoor.sdslabs.co/
+https://echoctf.red/
+https://www.hackthissite.org/
+https://www.hacker101.com/
+https://ctf.hacker101.com/
+https://microcorruption.com/
+https://ctf.viblo.asia
+https://www.vulnhub.com/
+http://challengeland.co/
+https://www.enigmagroup.org/
+https://ctflearn.com/
+https://www.pentestpractice.com/
+https://pentest.training/
+https://0x0539.net/
+https://247ctf.com/
+http://www.hacker.org/
+https://www.jarvisoj.com/
+https://adworld.xctf.org.cn/
+https://hackme.inndy.tw/
+https://www.newbiecontest.org/
+http://trythis0ne.com/
+https://365.csaw.io/challenges
+https://hackable.ca/
+https://cyberchallenge.com.au/
+https://pentesterlab.com/
+https://w3challs.com/
+https://hacking-lab.com/index.html
+https://www.root-me.org/
+https://capturetheflag.withgoogle.com/
+https://www.hackergateway.com/
+https://www.gameofhacks.com/game
+https://github.com/cliffe/SecGen
+https://github.com/praetorian-inc/DVRF
+https://github.com/payatu/diva-android
+http://damnvulnerableiosapp.com/
+https://2019game.picoctf.com/
+https://ringzer0ctf.com
+https://hack.me/
+https://linuxsurvival.com/
+https://holidayhackchallenge.com/past-challenges/
+https://pwnadventure.com/
+https://learngitbranching.js.org/
+
+[Варгеймы]
+http://www.hackertest.net/
+http://flaws.cloud/
+http://gracker.org/
+http://hax.tor.hu/
+http://www.try2hack.nl/
+https://underthewire.tech/
+https://fun.coolshell.cn/
+https://ae27ff.meme.tips/
+https://overthewire.org/wargames/
+http://smashthestack.org/wargames.html
+http://www.pythonchallenge.com/
+https://counterhack.net/Counter_Hack/Challenges.html
+http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1
+
+
+[VPN машины для взлома]
+https://www.hackthebox.eu/
+https://tryhackme.com/
+https://lab.pentestit.ru/
+
+
+[Обучающие ресурсы]
+https://trailofbits.github.io/ctf/ - английский курс молодого бойца в цтф типа кмб уфо (короткий + видео)
+https://ctfs.github.io/resources/ - тоже инглиш кмб (недопиленный)
+https://teambi0s.gitlab.io/bi0s-wiki/ - ещё один кмб от bi0s
+https://github.com/xairy/mipt-ctf - курс по цтф от МФТИ
+https://www.hoppersroppers.org/index.html - инглиш цтф академия с курсами
+https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet- - читшиты по цтфу
+https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/ - какие-то странные читшиты по цтфу
+https://guif.re/ - ахуенный сборник читшитов по всем практическому ибо(начиная от ревеса, пывна, до вэба, есть даже цтф врайтапы)
+https://attackdefense.com/ - сборник курсов по оффенсифу и цтф с практическими задачами
+https://github.com/enaqx/awesome-pentest - лист по пентесту(солянка + цтф + реверс)
+https://github.com/FuzzySecurity/Resource-List - интересный лист с материалами по цтфу и оффенсу
+https://github.com/findneo/Newbie-Security-List - китайский лист по секурити (цтфки и т.д)
+https://speakerdeck.com/inndy/ctf-from-zero-to-one - китайская преза для начинающих в цтфе
+https://kitctf.de/learning/getting-started - интересный сайт по введению в цтф (пинок для начинающих)
+https://github.com/WebClub-NITK/WC-CTF/wiki/Getting-started-with-CTFs - прикольный лист про введение в цтф
+https://ctf101.org/ - обалденный сайт по введению в цтф (по каждой категории, ГОДНО)
+https://github.com/flawwan/CTF-Candy - читшиты по вэбу/стеге/крипто
+https://github.com/kareniel/awesome-ctf-challenge-design - куча ресурсов - там всякие книги/ютубы (ну вообще ссылки годные) - теории много
+http://security.cs.rpi.edu/courses/binexp-spring2015/ - из прошлой ссылки лекции и таски
+
+
+[Врайтапы/блоги-врайтапы на цтфки/платформы]
+https://bamboofox.github.io/ - врайтапы от бамбуфокса (китайцы)
+https://github.com/0e85dc6eaf/CTF-Writeups - врайтапная репа с навигацией
+https://github.com/ctfs/ - хуева туча врайтапов из прошлых лет
+https://github.com/mzfr/ctf-writeups/ - тоже сборник врайтапов
+https://github.com/smokeleeteveryday/CTF_WRITEUPS - врайтапы от SmokeLeet
+https://t.me/hacking_group_channel - телеграмм канал по хакингу (есть видеоврайтапы на лабы/рэдтиминг)
+https://www.reddit.com/r/netsecstudents/ - редит канал с гайдами по тулам и врайтапами
+https://www.reddit.com/r/securityCTF/ - редит канал про цтфки и врайтапы
+https://github.com/bl4de/ctf - репа с врайтапами
+https://github.com/p4-team/ctf - репа с врайтапами от поляков
+https://github.com/sixstars/ctf - репа с врайтапами от китайцев
+https://github.com/ctfs/write-ups-2017 - старая репа врайтапов
+http://blog.ebfe.dk/ - прикольный блог с врайтапами (старый)
+https://0xsaiyajin.github.io/ - прикольный блог с врайтапами на HTB
+https://medium.com/bugbountywriteup - врайтапный блог на медиуме
+https://blog.g0tmi1k.com/archives/ - старые врайтапчики интересные
+https://resources.infosecinstitute.com/topic/cracking-damn-insecure-and-vulnerable-apps-diva-part-1/ - врайтап по DIVA (уязвимое приложение для Android)
+https://www.jaybosamiya.com/blog/ - классный блог ресёрчера с врайтапами на ивенты
+https://bruce30262.github.io/ - блог с врайтапи (приятный)
+https://braincoke.fr/write-up/ - блог с врайтапами на криптопалы/хакзебоксы
+https://dominicbreuker.com/ - блог с врайтапами на flaws cloud , хакзебоксы и т.д (очень красивый)
+https://github.com/osirislab/CSAW-CTF-2018-Quals - врайтапы на csaw ctf qual
+http://the2702.com/ - врайтапы на цтфки старые
+https://blog.skullsecurity.org/ - блог о цтфках (врайтйапы на bsidesctf)
+https://github.com/ctfs/write-ups-2014 - врайтапы на цтфки 2014ого года
+https://github.com/VulnHub/ctf-writeups - врайтапы на цтфки 2014-2018
+https://0xdf.gitlab.io/ - свеживе врайтапы на HTB
+https://www.youtube.com/c/ippsec/videos - врайтапы на HTB
+https://github.com/B4Ha-LzM17/Infosec-Reference-Bank - врайтапы на HTB и читшит по реверсшеллам
+http://shell-storm.org/repo/CTF/ - врайтпапные архивы шэллшторма
+
+[CTF платформы для запила цтфки]
+https://github.com/apsdehal/awesome-ctf#platforms - платформы для создания цтфок
+https://github.com/echoCTF/echoCTF.RED - платформа для поднятия своего цтфа (обновляется)
+https://github.com/facebook/fbctf - плафтморма для цтфки от фэйсбука (типа как цтфд, без тасок)
+https://github.com/aau-network-security/haaukins - платформа для секурити обучения (у себя поднимать нужно - без тасок)
+https://github.com/mcpa-stlouis/hack-the-arch - скоринг система для проведения цтфок
+https://github.com/Nakiami/mellivora - интересная альтернатива для ctfd
+https://github.com/andreafioraldi/motherfucking-ctf - мазерфакинговая цтф платформа для создания цтфок
+https://github.com/UnrealAkama/NightShade - простой цтф фреймворк (прикольный фронт)
+https://github.com/easyctf/librectf - платформа для изи цтфок
+https://github.com/picoCTF/picoCTF - цтф фреймворк для пикоцтфа
+https://github.com/koromodako/mkctf - жюрейка в консоле
+https://github.com/moloch--/RootTheBox - рутзебоксная жюрейка (на любителя)
+https://github.com/legitbs/scorebot - старая платформа для цтфок
+
+
+[YouTybe и прочее]
+https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw/videos - ламповый канал про цтфки/иб штуки/программинг/iot
+https://www.youtube.com/user/GynvaelEN/videos - канал со стримами по цтфкам
+https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA - канал про решение лаб типа HTB
+https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w - ламповый канал от ALLES про цтф
+https://www.reddit.com/r/securityCTF/ - реддит цтф посты
+https://www.youtube.com/channel/UCPqes566OZ3G_fjxL6BngRQ - видео врайтапы с цтфок (немного)
+https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg - стримы от гугл ресёрчера - играет в цтфы
+https://www.youtube.com/user/RootOfTheNull - ламповый и годный канал с решениями цтф и многое другое (очень вкусно)
+https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA - очень много разного оффенсив контента от оваспа вполть до цтф, есть рассказ от девушек о хак тулах)
+
+https://www.youtube.com/c/JohnHammond010/videos - ламповый канал с врайтапами (дубль ?)

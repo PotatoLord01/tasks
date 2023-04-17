@@ -1,0 +1,92 @@
+[Тренировочные платформы]
+https://webhacking.kr/
+http://www.dvwa.co.uk
+https://www.hacksplaining.com/
+https://hack.me/
+https://websec.fr/
+https://google-gruyere.appspot.com/
+http://www.itsecgames.com/
+https://github.com/stamparm/DSVW
+https://defendtheweb.net/
+https://code-breaking.com/
+https://avatao.com/
+https://xss-game.appspot.com/
+https://github.com/miguelfreitas93/.NetGoat
+https://github.com/stripe-ctf/stripe-ctf-2.0
+https://github.com/chuckfw/owaspbwa/
+https://github.com/WebGoat/WebGoat
+https://github.com/securifybv/spotthebug
+http://notpron.org/notpron/ - вэб пазлы квэст
+http://prompt.ml/ - ещё одна XSS игра
+https://github.com/infosecAK/defenselessV1 - ещё одно уязвимое вэб приложение
+https://github.com/appsecco/dvna - DVNA
+https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application - DVGA
+
+https://rewanthtammana.com/damn-vulnerable-bank/installation/index.html - уязвимое приложение андроид
+
+[Тулы]
+https://github.com/The-Art-of-Hacking/h4cker/blob/master/new_tools.md - здесь куча тулов
+https://github.com/zhzyker/vulmap - сканер вэба на CVE
+https://github.com/MariaGarber/XSS-Scanner - XSS сканер
+https://github.com/pwn0sec/PwnXSS - XSS сканер
+https://github.com/dwisiswant0/findom-xss - XSS сканер
+https://github.com/RedVirus0/BlackDir-Framework - комбайн по скану вэба (брутфорсер)
+https://github.com/luisfontes19/xxexploiter - xxe хэлпер
+
+
+[Обучающие ресурсы]
+https://blog.deteact.com/ru/csp-bypass/ - про байпас CSP на русском
+https://xakep.ru/2018/10/01/xss-csp-bypass/  - про байпас CSP на русском
+https://github.com/flawwan/CTF-Candy - читшиты по вэбу/стеге/крипто
+https://github.com/joe-shenouda/awesome-cyber-skills - лист по кибер скиллам (списко платформ и игр для прокачки, очень много годноты для вэб и новых платформ типа XVWA)
+https://github.com/infoslack/awesome-web-hacking - лист по вэб (хакингу)
+https://github.com/ngalongc/bug-bounty-reference - баг баунти референсы - годный лист для багхантера (вэбера)
+https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html - базы mysql (чутка инъекций видео)
+https://www.lynda.com/MySQL-tutorials/PHP-MySQL-Essential-Training-2-Build-CMS/587675-2.html - разные дырки в php (видео)
+https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting/dp/8126533404 - книга по хакингу сайтов
+https://www.packtpub.com/product/mastering-modern-web-penetration-testing/9781785284588 - ещё одна книга по современному вэб пентесту
+https://guides.codepath.com/websecurity - интересный гайд по вэб секурити - тоже годно вроде
+https://www.amazon.in/Tangled-Web-Securing-Modern-Applications/dp/1593273886 - книга по современной безопасности вэб приложений
+https://www.amazon.com/Essential-PHP-Security-Chris-Shiflett/dp/059600656X - книга по безопасности php
+https://www.amazon.com/SQL-Injection-Attacks-Defense-Second/dp/1597499633 - книга по sql инъекциям атаки и защита
+https://www.php.net/manual/en/security.php - безопасность (уязвмисости )php на официальном сайте пыхи
+https://phpsecurity.readthedocs.io/en/latest/ - более подробрный и крутой гайд по уязвимостям в php коде (круто)
+https://www.amazon.in/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6 - книга про браузер хакера карманный
+https://owasp.org/www-project-web-security-testing-guide/ - ахуенный гайд по OWASP'у (там ооочень много всяких дырок)
+https://leanpub.com/web-hacking-101 - электронная книга по вэб хакингу (этичный)
+https://www.amazon.ca/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470 - книжка про вэб хакинг
+https://github.com/w181496/Web-CTF-Cheatsheet - читшит по вэбу
+https://github.com/xfinest/ctf-Hacker-Resources/tree/master/Web_Security - что-то про вэб уязвимости
+https://elearnsecurity.com/product/ewpt-certification/ - какая-то сертификация по вэб дыркам + лабы ?
+https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018 - преза от гугла про вэб секурити
+https://www.youtube.com/channel/UCTE8R-Otq_kVTo08eLsfeyg - узявимости в вэб фреймворках типа Django или Ruby on Rails (всякие XSS и SQL инъекции)
+https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw - небольшие ролики об этичном хакинге / вэб дырках / обзор bwapp на 6 минут
+https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg - чисто вэб пентестинг
+https://github.com/Hackademic/hackademic/ - ещё одна лаба по вэб пентесту
+https://sourceforge.net/projects/mutillidae/files/ - ещё лаба по OWASP
+https://github.com/bkimminich/juice-shop - современная лаба по вэбу (обновляется часто)
+https://github.com/qazbnm456/awesome-web-security - классная репа по вэб уязвимостям (годно)
+https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf - подробная PDF про все 10 пунктов OWASP
+https://owasp.org/www-community/xss-filter-evasion-cheatsheet - XSS фильтрация читшит
+https://cheatsheetseries.owasp.org/Glossary.html - читшиты оваспа
+https://owasp.org/www-community/attacks/xss/ - описание XSS уязвимости от оваспа
+https://owasp.org/www-community/attacks/SQL_Injection - описание sql инъекции от оваспа
+https://owasp.org/www-community/attacks/Session_hijacking_attack - хайджекинг сессии от оваспа
+https://github.com/FeatherCTF/Resources/blob/master/Articles/OWASP_Cheatsheets_Book.pdf - книга по оваспу
+https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets - читшиты по оваспу
+https://owasp.org/www-project-top-ten/ - OWASP топ 10 курсы бесплатные
+https://www.youtube.com/user/OWASPGLOBAL - опять доклады с конференций (крч помойка всего)
+https://www.youtube.com/channel/UCDHsOiMPS-SLppAOAJRD37Q - много пиздежа про OWASP
+https://www.youtube.com/channel/UC-3qyzm4f29C12KGp3-12bQ - старые OWASP индустриальные гайды
+https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA - очень много разного оффенсив контента от оваспа вполть до цтф, есть рассказ от девушек о хак тулах)
+https://www.hellboundhackers.org/ - старый сайт-форум про пентест/патчинг/вебхакинг с тасками
+http://www.phrack.org/ - это сайт который учит атаковать JS ?! WTF ?!
+http://www.vulnweb.com/ - уязвимые сайты к сканеру акуентикс
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/ - читшит по sql инъекциям
+https://portswigger.net/web-security - от создателей бёрпа
+https://www.exploit-db.com/papers/13045 - гайд по SQL инъекциям
+http://pentestmonkey.net/category/cheat-sheet/sql-injection - читшит на SQL инъекции в разных базах данных
+https://dhavalkapil.com/blogs/Shellcode-Injection/ - обалденный блог об шелкодах/sqli и другое годноте от sdslabs [ГОДНО]
+https://gosecure.github.io/template-injection-workshop/#0 - гайды по инъекциям в тэмлэйты
+https://penetrationstest.se/burp-suite-best-practices/ - лучшие практики по BurpSuite
+http://brutelogic.com.br/blog/ - блог про XSS
